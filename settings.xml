@@ -57,7 +57,7 @@ under the License.
        <repository>
          <id>nexus-snapshot-repo</id>
          <name>your custom repo</name>
-         <url>http://54.152.101.121:8081/repository/maven-snapshots/</url>
+         <url>http://34.238.120.119:8081/repository/maven-snapshots/</url>
        </repository>
 	   
      </repositories>
